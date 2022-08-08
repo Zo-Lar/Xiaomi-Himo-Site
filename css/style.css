@@ -62,7 +62,7 @@ padding-left: 10px;
 }
 
 .bike {
-  padding: 100 0 150px;
+  padding: 100px 0px 150px;
 }
 
 .bike__inner {
@@ -173,6 +173,6 @@ padding-left: 10px;
   display: flex;
 }
 
-.info-img {
+.info__img {
   margin-right: 60px;
 }
