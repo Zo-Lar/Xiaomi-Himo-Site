@@ -164,3 +164,15 @@ padding-left: 10px;
   line-height: 15px;
   margin: auto 0;
 }
+
+.info {
+  margin-bottom: 150px;
+}
+
+.info__inner {
+  display: flex;
+}
+
+.info-img {
+  margin-right: 60px;
+}
